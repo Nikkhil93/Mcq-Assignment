@@ -1,4 +1,4 @@
-﻿# StudentDashboard
+﻿# McqAssignment
 
 ## Usages
 
