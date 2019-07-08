@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "Question": "What is 2+2",
+      "Options": [{
+        "A": "4"},{"B": "5"},
+      {"C": "0"},
+      {"D": "8"}
+      ],
+      
+      "correct": "A"
+    }, {
+      "id": 2,
+      "Question": "Which is valid emailid format",
+      "Options": [{
+        "A": "email"},
+      {"B": "abc@pqr"},
+      {"C": "abc@pqr.xy"},
+      {"D": "none"
+      }],
+      "correct": "C"
+    }
+]
